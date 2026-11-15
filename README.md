@@ -7,7 +7,7 @@ I focus on **security operations, threat detection and incident response**. I le
 * 🎯 **Looking for:** SOC Analyst (L1) / Blue Team roles in the UK
 * 🔬 **Interests:** detection engineering, SIEM, threat hunting, network security, AI in cybersecurity
 * 🎤 **Upcoming:** speaking at a BCS event in London, December 2026
-* 📫 **Reach me:** www.linkedin.com/in/olayinka-oluwaferanmi-a29618174 · [ ](https://medium.com/@icevox0605) 
+* 📫 **Reach me:** www.linkedin.com/in/olayinka-oluwaferanmi-a29618174  [ ](https://medium.com/@icevox0605) 
 
 
 
